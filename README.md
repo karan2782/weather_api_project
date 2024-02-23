@@ -11,5 +11,5 @@
 ![App Screenshot](https://github.com/karan2782/weather_api_project/blob/main/Screenshot%202024-02-23%20182833.png)
 
 ### Tech stack of this project is python.
-![App Screenshot]()
+![App Screenshot](https://github.com/karan2782/weather_api_project/blob/main/python.webp)
 
