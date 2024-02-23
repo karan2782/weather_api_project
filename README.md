@@ -1,4 +1,5 @@
 # weather_api_project
+
 ## Using weather api to find temperature of any city
 
 ### This programme shows temperature of city in the terminal after taking inputs.
@@ -10,4 +11,5 @@
 ![App Screenshot](https://github.com/karan2782/weather_api_project/blob/main/Screenshot%202024-02-23%20182833.png)
 
 ### Tech stack of this project is python.
+![App Screenshot]()
 
